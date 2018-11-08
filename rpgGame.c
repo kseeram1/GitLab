@@ -139,6 +139,8 @@ void main(void)
 			{
 					while(choice != 99)
 					{
+						puts("Hello World");
+						scanf("%d",&choice);	
 					}
 					break;
 			}
