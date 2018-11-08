@@ -139,7 +139,7 @@ void main(void)
 			{
 					while(choice != 99)
 					{
-						puts("Hello World");
+						puts("you open the door and fine ........");
 						scanf("%d",&choice);	
 					}
 					break;
